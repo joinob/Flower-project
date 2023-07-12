@@ -47,7 +47,8 @@
 }
 .section-one {
     color: rebeccapurple;
-    max-width: 1140px;
+    /* max-width: 1140px; */
+    width:1140px;
     margin: 20px auto;
     justify-content: center;
     display: flex;
